@@ -1,6 +1,8 @@
-# Multi Language text in React JS
+# Multi-Language Text in React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online Preview : https://glowing-cascaron-2aa7fe.netlify.app
+
+##
 
 ## Available Scripts
 
